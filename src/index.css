@@ -6,6 +6,8 @@ body {
   color: orange;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(16,40,111);
+  background: linear-gradient(90deg, rgba(16,40,111,1) 0%, rgba(56,136,219,1) 53%, rgba(22,9,99,1) 100%);
 }
 
 code {
